@@ -78,3 +78,8 @@
 - Issues
 - Discussions
 - Feature Requests
+
+---
+
+PlanTodo 使用指南：[https://tutorial.plantodo.app/](https://tutorial.plantodo.app/)
+
